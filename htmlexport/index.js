@@ -1,1 +1,1 @@
-module.exports = require('../lib/node_modules/activereports/ar-js-html.js');
+module.exports = require('../lib/node_modules//node_modules/activereports/ar-js-html.js');

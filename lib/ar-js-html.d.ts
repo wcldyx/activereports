@@ -1,1 +1,1 @@
-export * from 'activereports/ar-js-html';
+export * from '/node_modules/activereports/ar-js-html';

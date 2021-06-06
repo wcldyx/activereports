@@ -1,1 +1,1 @@
-export * from 'activereports/ar-js-xlsx';
+export * from '/node_modules/activereports/ar-js-xlsx';
