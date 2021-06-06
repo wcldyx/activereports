@@ -1,0 +1,43 @@
+{
+  "name": "@grapecity/activereports",
+  "version": "2.1.1",
+  "description": "ActiveReportsJS",
+  "author": "GrapeCity, Inc.",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "license": "Commercial",
+  "keywords": [
+    "activereports",
+    "arjs",
+    "reporting",
+    "pagereport",
+    "pagedocument",
+    "rdlx",
+    "rdl",
+    "javascript",
+    "report designer",
+    "web designer",
+    "viewer",
+    "pdf",
+    "excel",
+    "アクティブレポート",
+    "帳票",
+    "ページレポート",
+    "RDLレポート",
+    "レポートデザイナ",
+    "ビューワ",
+    "エクセル",
+    "バーコード",
+    "グラフ"
+  ],
+  "dependencies": {
+    "@grapecity/activereports": "^2.1.1",
+    "@types/virtual-dom": "^2.1.0",
+    "i18next": "^15.1.3",
+    "lodash-es": "^4.17.11",
+    "moment": "^2.22.2",
+    "ramda": "^0.25.0",
+    "virtual-dom": "^2.1.1",
+    "xregexp": "^3.0.30"
+  }
+}
