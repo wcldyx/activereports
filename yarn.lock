@@ -9,9 +9,9 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
-"@grapecity/activereports@^2.1.1":
+"activereports/activereports@^2.1.1":
   version "2.1.1"
-  resolved "https://registry.nlark.com/@grapecity/activereports/download/@grapecity/activereports-2.1.1.tgz#626c6945ca3d01b17d87cf1e82b71fe590f91adc"
+  resolved "https://registry.nlark.com/activereports/activereports/download/activereports/activereports-2.1.1.tgz#626c6945ca3d01b17d87cf1e82b71fe590f91adc"
   integrity sha1-YmxpRco9AbF9h88egrcf5ZD5Gtw=
   dependencies:
     "@types/virtual-dom" "^2.1.0"

@@ -1,12 +1,12 @@
 /*!
- * @grapecity/activereports 2.1.1
+ * activereports/activereports 2.1.1
  * Description: ActiveReportsJS
- * https://www.npmjs.com/package/@grapecity/activereports
+ * https://www.npmjs.com/package/activereports/activereports
  * Copyright (c) 2021 GrapeCity, Inc.
  * Licensed under the Commercial license
  */
 /*!
- * @grapecity/ar-js-pagereport v1.9.0
+ * activereports/ar-js-pagereport v1.9.0
  * Author: GrapeCity, Inc
  * Description: ActiveReports Core
  */

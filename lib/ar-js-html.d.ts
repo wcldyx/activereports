@@ -1,1 +1,1 @@
-export * from '@grapecity/ar-js-html';
+export * from 'activereports/ar-js-html';

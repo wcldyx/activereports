@@ -1,1 +1,1 @@
-module.exports = require('../lib/node_modules/@grapecity/ar-js-xlsx.js');
+module.exports = require('../lib/node_modules/activereports/ar-js-xlsx.js');
